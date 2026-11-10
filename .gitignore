@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+instance/
+*.db
+dump.rdb
+celerybeat-schedule*
+node_modules/
+.env
