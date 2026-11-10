@@ -5,4 +5,4 @@ Admin, Trek Staff and Trekkers (Users).
 
 Tech stack: Flask (API), VueJS (UI), Bootstrap, SQLite, Redis (caching), Celery (background jobs).
 
-Author: <Dinesh Prabhu S> (24f2008885)
+Author: Dinesh Prabhu S (24f2008885)
